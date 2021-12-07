@@ -1,0 +1,1 @@
+# Lesson_006_scope_closure
